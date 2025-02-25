@@ -1,0 +1,1 @@
+// A variável passa a ser global, valendo em qualquer parte do código
